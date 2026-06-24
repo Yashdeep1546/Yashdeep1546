@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=60" />
 
-  <img src="https://raw.githubusercontent.com/Yashdeep1546/Portfolio/main/public/assets/avatar/front.png" alt="Yashdeep Avatar" width="160" style="border-radius:50%; margin-top:-50px; position:relative; z-index:10; border: 4px solid #8B5CF6;" />
+  <img src="https://raw.githubusercontent.com/Yashdeep1546/Portfolio/main/public/assets/avatar/front_cropped.png" alt="Yashdeep Avatar" width="160" style="border-radius:50%; margin-top:-50px; position:relative; z-index:10; border: 4px solid #8B5CF6;" />
 
   <br>
 
