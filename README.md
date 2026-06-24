@@ -31,7 +31,7 @@ I am a Computer Science student blending software engineering with artificial in
 - 📚 **Currently learning:** Vector database optimization and deep learning architectures.
 - 🎯 **Goal:** Designing robust AI-driven applications that solve complex real-world problems.
 
-✨ **[Check out my interactive 3D portfolio!](https://yashdeep1546.github.io/Portfolio/)** ✨
+✨ **[Check out my interactive 3D portfolio!](https://portfolio-yashdeep.vercel.app/)** ✨
 
 ---
 
